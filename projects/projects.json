@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Houzi",
+    "desc": "Houzi is a powerful mobile app for real estate agents and companies. It comes with slick design, awesome ui and ux and highly customizable features.",
+    "image": "make-houzez-mobile-app",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.booleanbites.houzez",
+      "code": "https://apps.apple.com/pk/app/houzi-app-for-houzez/id1598357211"
+    }
+  },
+  {
+    "name": "Imagitor",
+    "desc": "Imagitor is a free graphic design app to create social media posts, presentations, posters and other visual content.",
+    "image": "imagitor",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.booleanbites.imagitor",
+      "code": "https://apps.apple.com/pk/app/imagitor-urdu-designer/id1207572141"
+    }
+  },
+  {
+    "name": "Studywise",
+    "desc": "An Artificial Intelligence based mobile application that helps students to studying abroad by providing more than 500 options from 100+ world class universities.",
+    "image": "studywise",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.istudywise&hl=en_US",
+      "code": "https://apps.apple.com/pk/app/studywise/id1562986073"
+    }
+  },
+  {
+    "name": "Estate-X",
+    "desc": "Unlock the pinnacle of luxury living with Estate X. United Arab Emirates Real Estate Excellence. Utilizing Blockchain Technology to advance real estate experience.",
+    "image": "estate-x",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.estatex.app",
+      "code": "https://apps.apple.com/vn/app/estate-x/id6477753980"
+    }
+  },
+  {
+    "name": "Delifast",
+    "desc": "Unprecedented delivery experience. With a user-friendly interface, can place orders in a few clicks, track the status of deliveries in real time, and benefit from fluid communication with team.",
+    "image": "delifast",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.delifast.pro",
+      "code": "#"
+    }
+  }
+]
